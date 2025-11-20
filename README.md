@@ -32,7 +32,8 @@ Ensure that the Q output follows the D input on the rising edge of the clock sig
 1. Tri State D Flip-Flop
    <img width="1228" height="1026" alt="image" src="https://github.com/user-attachments/assets/9b41ade8-a5e5-4d9d-946f-7d31f5a9d841" />
 2. Schematic of D Flip-Flop
-   <img width="1919" height="1077" alt="Screenshot 2025-09-27 092350" src="https://github.com/user-attachments/assets/16b28c99-b88f-44ad-950e-b287f52e7e8f" />
+<img width="1911" height="1079" alt="Screenshot 2025-09-27 145007" src="https://github.com/user-attachments/assets/24717759-cc00-4ac0-a2d9-402fc7b91f5d" />
+
 ## Output
 1. Transient Analysis Output
    <img width="1919" height="1076" alt="Screenshot 2025-09-27 092900" src="https://github.com/user-attachments/assets/e54dbc9a-89e5-4219-b819-52ba6d171140" />
