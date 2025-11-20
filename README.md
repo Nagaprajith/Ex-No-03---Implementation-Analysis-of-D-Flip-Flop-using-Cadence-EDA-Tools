@@ -36,7 +36,8 @@ Ensure that the Q output follows the D input on the rising edge of the clock sig
 
 ## Output
 1. Transient Analysis Output
-   <img width="1919" height="1076" alt="Screenshot 2025-09-27 092900" src="https://github.com/user-attachments/assets/e54dbc9a-89e5-4219-b819-52ba6d171140" />
+  <img width="1918" height="1079" alt="Screenshot 2025-09-27 144928" src="https://github.com/user-attachments/assets/0e43c718-d8ce-47dd-9017-e369a88fc8cc" />
+
 ## Results
 Successfully designed the D flip-flop schematic using Cadence EDA tools.
 The simulation results verified the correct sequential logic behavior, ensuring that the Q output correctly follows the D input on the rising edge of the clock.
